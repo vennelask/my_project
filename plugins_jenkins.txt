@@ -1,0 +1,3 @@
+Multiple SCMs
+Rebuilder
+Parameterized Trigger plugin
